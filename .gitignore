@@ -9,7 +9,6 @@ __pycache__/
 results/
 logs/
 wandb/
-data/graph_data/
 *.log
 *.out
 *.ipynb_checkpoints
